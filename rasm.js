@@ -1,5 +1,5 @@
 /**
- * Author: Rami Belgacem
+ * Author: Rami Belgacem $$$$$$$$$$$$$
  */
 
 var modelController = function() {'use_strict';
