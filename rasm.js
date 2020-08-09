@@ -1,5 +1,6 @@
 /**
  * Author: Rami Belgacem $$$$$$$$$$$$$
+ * Summary: this is a summry
  */
 
 var modelController = function() {'use_strict';
