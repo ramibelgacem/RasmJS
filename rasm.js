@@ -1,5 +1,6 @@
 /**
  * Author: Rami Belgacem
+ * Email: ramibelgacem
  */
 
 var modelController = function() {'use_strict';
