@@ -1,6 +1,8 @@
 /**
- * Author: Rami Belgacem
+ * Author: Rami Belgacem $$$$$$$$$$$$$
  * Email: ramibelgacem
+ * Intro: this is an introduction
+ * Summary: this is a summry
  */
 
 var modelController = function() {'use_strict';
