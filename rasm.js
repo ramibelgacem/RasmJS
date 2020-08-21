@@ -6,6 +6,7 @@
  * Something
  */
 
+// Model controller
 var modelController = function() {'use_strict';
     var createSVGElment = function(qualifiedName) {
         return document.createElementNS('http://www.w3.org/2000/svg', qualifiedName)
