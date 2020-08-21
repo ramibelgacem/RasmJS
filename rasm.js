@@ -6,6 +6,7 @@
  * Something
  * I added something for feature A
  * I added something for feature B
+ * Hotfix
  */
 
 // Model controller
