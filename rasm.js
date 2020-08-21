@@ -4,6 +4,7 @@
  * Intro: this is an introduction
  * Summary: this is a summry
  * Something
+ * I added something for feature A
  */
 
 // Model controller
