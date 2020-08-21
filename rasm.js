@@ -187,7 +187,7 @@ var viewController = function() {'use_strict';
         displayElement: function(el) {
             var selector = el.element.tagName === 'svg' ? 'body' : 'svg';
             el.buildElement();
-            if (el.defsElement) { // for line element
+            if (el.defsElement) {
                 document.querySelector(selector).appendChild(el.defsElement);    
             }
             document.querySelector(selector).appendChild(el.element);
