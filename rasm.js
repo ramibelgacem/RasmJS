@@ -3,6 +3,7 @@
  * Email: ramibelgacem
  * Intro: this is an introduction
  * Summary: this is a summry
+ * Something
  */
 
 var modelController = function() {'use_strict';
