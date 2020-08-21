@@ -5,6 +5,7 @@
  * Summary: this is a summry
  * Something
  * I added something for feature A
+ * I added something for feature B
  */
 
 // Model controller
